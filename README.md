@@ -6,7 +6,7 @@ The coding challenge of this project was taken from the Udemy course
 https://www.udemy.com/course/the-complete-javascript-course/
 
 # About the game
-1. A secret number is generated which is from 0 to 20.
+1. A secret number is generated which is from 1 to 20.
 2. You have to guess the correct number.
 3. Every time you miss the number, it tells you if the number you choose was too high or too low.
 4. For every incorrect number, you lose 1 score point.
